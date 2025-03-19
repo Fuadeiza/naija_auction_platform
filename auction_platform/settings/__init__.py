@@ -1,0 +1,1 @@
+from .development import *  # Import development settings by default for local development

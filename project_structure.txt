@@ -1,0 +1,28 @@
+.
+├── apps
+│   ├── accounts
+│   │   ├── api
+│   │   ├── models.py
+│   │   └── serializers.py
+│   ├── auctions
+│   ├── items
+│   └── notifications
+├── auction_platform
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings
+│   │   ├── __init__.py
+│   │   ├── base.py
+│   │   ├── development.py
+│   │   └── production.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── manage.py
+├── project_architecture_design.md
+├── project_structure.txt
+└── requirements
+    ├── development.txt
+    └── production.txt
+
+10 directories, 16 files
